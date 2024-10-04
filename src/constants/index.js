@@ -1,7 +1,7 @@
-import project1 from "../assets/projects/project1.png";
-import project2 from "../assets/projects/project2.png";
-import project3 from "../assets/projects/project3.png";
-import project4 from "../assets/projects/project4.png";
+import project1 from "../assets/projects/project-1.jpg";
+import project2 from "../assets/projects/project-2.jpg";
+import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `As a beginner in full stack development, I am eager to learn and explore the exciting world of web development. My journey begins with mastering the essentials, including HTML and CSS, while diving into modern frameworks such as Next.js for building dynamic web applications. I am also keen on back-end development using Node.js, combined with PostgreSQL for robust database management. To enhance the user interface, I enjoy utilizing Material-UI (MUI) and Tailwind CSS to create visually appealing and responsive designs.`;
 export const ABOUT_TEXT = `Hello! I'm an enthusiastic and motivated fresher with a strong foundation in modern web development and programming.I have hands-on experience with popular frameworks and libraries such as Next.js, Express.js, and Node.js, enabling me to build both client-side and server-side applications. I'm also proficient in utilizing Material-UI and Tailwind CSS to enhance the visual appeal and functionality of my projects. I am familiar with Git for version control, Docker for containerization, and Postman for API testing. My introduction to cloud services includes working with Heroku, which has broadened my understanding of scalable application deployment. I look forward to contributing my skills and creativity to exciting projects and collaborating with others in the tech community!`
